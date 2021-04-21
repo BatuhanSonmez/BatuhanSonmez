@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 My name is Batuhan Sönmez.
 
-<!--
-**BatuhanSonmez/BatuhanSonmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a Medical Engineering student at Acıbadem University.
 
-Here are some ideas to get you started:
+![Batuhan Sönmez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuSonmez&theme=tokyonight&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning with Python.
+- 🌱 I’m currently learning HTML5,CSS3 and JavaScript.
+- 👯 I’m looking to collaborate on anything :)
+
+[![](https://img.shields.io/github/followers/BatuSonmez?style=social)](https://github.com/BatuSonmez)
+
+- 📫 How to reach me:
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-sonmez/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sonmezbatuhan0/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://bysonmez-tr.medium.com/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bysonmez.tr@gmail.com)](mailto:bysonmez.tr@gmail.com)
