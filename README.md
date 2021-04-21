@@ -2,13 +2,13 @@
 
 ### I am a Medical Engineering student at Acıbadem University.
 
-![Batuhan Sönmez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuSonmez&theme=tokyonight&show_icons=true)
+![Batuhan Sönmez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanSonmez&theme=tokyonight&show_icons=true)
 
 - 🔭 I’m currently working on Machine Learning with Python.
 - 🌱 I’m currently learning HTML5,CSS3 and JavaScript.
 - 👯 I’m looking to collaborate on anything :)
 
-[![](https://img.shields.io/github/followers/BatuSonmez?style=social)](https://github.com/BatuSonmez)
+[![](https://img.shields.io/github/followers/BatuhanSonmez?style=social)](https://github.com/BatuhanSonmez)
 
 - 📫 How to reach me:
 
