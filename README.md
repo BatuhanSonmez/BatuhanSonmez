@@ -10,6 +10,8 @@
 
 [![](https://img.shields.io/github/followers/BatuhanSonmez?style=social)](https://github.com/BatuhanSonmez)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=BatuhanSonmez&show_icons=true">
+
 - 📫 How to reach me:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-sonmez/)
