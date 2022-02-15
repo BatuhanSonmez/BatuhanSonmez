@@ -4,6 +4,8 @@
 
 ### I am also working as an Artificial Intelligence Intern at Acıbadem Technology.
 
+<br>
+
 - 🔭 I’m currently working on Machine Learning with Python.
 - 🌱 I’m currently learning HTML5,CSS3 and JavaScript.
 - 👯 I’m looking to collaborate on anything :)
