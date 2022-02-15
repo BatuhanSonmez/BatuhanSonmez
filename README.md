@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Batuhan Sönmez.
 
-### I am a Medical Engineering student at Acıbadem University.
+### I am a Medical Engineering & Computer Science and Engineering Student at Acıbadem University.
+
+### I am also working as an Artificial Intelligence Intern at Acıbadem Technology.
 
 ![Batuhan Sönmez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanSonmez&theme=tokyonight&show_icons=true)
 
