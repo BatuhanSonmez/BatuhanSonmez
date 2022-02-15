@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Machine Learning with Python.
 - 🌱 I’m currently learning HTML5,CSS3 and JavaScript.
 - 👯 I’m looking to collaborate on anything :)
-
+<br>
 ![Batuhan Sönmez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanSonmez&theme=tokyonight&show_icons=true)
 
 [![](https://img.shields.io/github/followers/BatuhanSonmez?style=social)](https://github.com/BatuhanSonmez)
