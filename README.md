@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning HTML5,CSS3 and JavaScript.
 - 👯 I’m looking to collaborate on anything :)
 
-[![](https://img.shields.io/github/followers/BatuhanSonmez?style=social)](https://github.com/BatuhanSonmez)
-
 ![Batuhan Sönmez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanSonmez&theme=tokyonight&show_icons=true)
+
+[![](https://img.shields.io/github/followers/BatuhanSonmez?style=social)](https://github.com/BatuhanSonmez)
 
 - 📫 How to reach me:
 
