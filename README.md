@@ -4,6 +4,7 @@
 
 ### I am also working as an Artificial Intelligence Intern at Acıbadem Technology.
 
+
 ![Batuhan Sönmez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanSonmez&theme=tokyonight&show_icons=true)
 
 - 🔭 I’m currently working on Machine Learning with Python.
